@@ -1,6 +1,6 @@
 # Hi, I'm Azamat Shirinshoev 👋
 
-🚀 **Master’s Student in Cybersecurity** | 💻 **Full-Stack Developer** | 🔒 **Cybersecurity Enthusiast & Entrepreneur**
+🚀 **Master’s Student in Cybersecurity** | 💻 **Full-Stack Developer** 
 
 📍 **Lorient, France**  
 📧 **Email**: azamat.shirinshoev@gmail.com  
